@@ -1,0 +1,14 @@
+x-coord,y-coord,isTower,filename,h_params,s_params,v_params,r_params,g_params,b_params,dissimilarity_params,contrast_params,homogeneity_params,ASM_params,energy_params,correlation_params
+197,502,Yes,IMG_4072.JPG,0.5909090909090908,0.31279620853080564,0.8274509803921568,145,175,211,"[[12 19]
+ [12 18]
+ [12 12]]","[[16 27]
+ [16 36]
+ [16 26]]","[[148.4        145.3       ]
+ [120.4        118.8       ]
+ [ 92.4         93.25882353]]","[[20770 19360]
+ [13490 13250]
+ [ 7778  8116]]","[[144.1180072  139.14021705]
+ [116.14645927 115.10864433]
+ [ 88.19297024  90.08884504]]","[[1. 1.]
+ [1. 1.]
+ [1. 1.]]"
